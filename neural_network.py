@@ -1,6 +1,3 @@
-# python notebook for Make Your Own Neural Network
-# (c) Tariq Rashid, 2016
-# license is GPLv2
 # https://github.com/makeyourownneuralnetwork/
 
 ################################################################
